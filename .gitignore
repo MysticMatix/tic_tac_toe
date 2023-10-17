@@ -1,6 +1,0 @@
-## simple tic tac toe
-*.exe
-*.dll
-tic_tac_toe/lib
-tic_tac_toe/include/sdl/
-.vscode/
